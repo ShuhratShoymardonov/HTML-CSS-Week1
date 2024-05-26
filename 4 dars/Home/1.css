@@ -1,0 +1,103 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box_top{
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+}
+.box_top h2{
+    text-align: right;
+    font-size: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    top: -30px;
+}
+.barobar{
+    margin-left: 20px;
+    position: relative;
+    bottom: 70px;
+    font-size: 50px;
+}
+.box{
+    width: 23%;
+    margin: 20px 10px ;
+}
+.contener{
+    display: flex;
+    margin: 20px 100px;
+}
+div img{
+    width: 100%;
+}
+h1{
+    font-size: 25px;
+    font-family:unset;
+    text-align: center;
+}
+.menyu1234{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family:cursive;
+}
+a{
+    padding: 10px;
+    text-decoration: none;
+}
+a:hover{
+    text-align: center;
+    background-color: black;
+    padding:10px;
+
+    
+}
+.h11{
+    margin-top: 80px;
+}
+.oshpaz{
+    margin-left: 300px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.oshpaztext{
+    text-align: center;
+    margin-bottom: 100px;
+}
+h1{
+    margin-bottom: 30px;
+}
+.box2{
+    width: 30%;
+    margin: 20px 10px ;
+}
+.cont{
+    display: flex;
+}
+.pos{
+    background-color: black;
+    color: #fff;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding: 5px;
+    font-size: 13px;
+}
+.minimg{
+    display: flex;
+    margin-top: 10px;
+}
+.min{
+    width: 70px;
+}
+h4{
+    margin-left: 10px;
+    padding-left: 10px;
+}

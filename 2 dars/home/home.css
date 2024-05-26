@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(251, 255, 254);
+    font-family:cursive;
+    padding-bottom: 100px;
+}
+.nam{
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+    background-color: rgb(97, 99, 235);
+    padding: 50px;
+    border-radius: 40px;
+    font-family: cursive;
+}
+.divnam{
+    background-color: rgb(229, 228, 233);
+    width: 32%;
+    margin: 20px;
+    box-shadow: 0 6px 15px 0 rgba(0,0,0.10,0.46),0 2px 18px 0 rgba(0,0,0,0.12);
+
+    
+   
+}
+div img{
+    width:100%;
+    cursor: copy;
+}
+.opsh{
+    display: flex;
+    
+}
+h1{
+    width: 60%;
+    text-align: center;
+    color: rgb(2, 2, 1);
+    margin-top: -10px;
+   
+}

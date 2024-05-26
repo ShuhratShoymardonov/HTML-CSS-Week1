@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.kula {
+  background-color: red;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin: 30px 30px 30px;
+  border: 5px solid black;
+}
+.a2 {
+  background-color: gold;
+}
+.a3 {
+  background-color: green;
+}
+.box {
+  background-color: #555;
+  width: 20%;
+  margin-left: 100px;
+  border: 20px solid black;
+  border-radius: 70px;
+  box-shadow: 0 0 5px 10px black;
+}
+.cantener {
+  display: flex;
+}
+.n1 .a1:hover {
+  box-shadow: 0 0 20px 30px red;
+  border: 0;
+}
+.n2 .a2:hover {
+  box-shadow: 0 0 30px 20px gold;
+  border: 0;
+}
+.n3 .a3:hover {
+  border: 0;
+  box-shadow: 0 0 30px 20px green;
+}
+.p {
+  background-color: black;
+  width: 50px;
+  height: 200px;
+  margin: 0 200px;
+}
+.poyaho {
+  display: flex;
+  height: 100px;
+  background-color: #f8f8f8;
+}
+.box:hover{
+    background-color: #555;
+    width: 20%;
+    margin-left: 100px;
+    border: 20px solid black;
+    border-radius: 50px;
+    box-shadow: 0 0 10px 20px black;
+}
+.p1{
+    position: relative;
+    left: -40px;
+}

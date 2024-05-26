@@ -1,0 +1,29 @@
+.nam{
+    width: 33%;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    box-shadow: 0 6px 15px 0 rgba(0,0,0.10,0.40),0 2px 18px 0 rgba(0,0,0.10,0.15);
+
+}
+.hamasi1{
+    display: flex;
+    margin: 1%;
+}
+.hamasi2{
+    display:flex;
+    margin: 1%;
+
+}
+div img{
+    width: 100%;
+    
+}
+h2{
+    background-color: rgb(95, 73, 224);
+    text-align: center;
+    padding: 50px;
+    font-size: 50px;
+    border-radius: 30px;
+    font-family: cursive;
+}
+

@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    margin-top: 30px;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.box1{
+    width: 30%;
+    margin-left: 20px;
+    text-align: center;
+    box-shadow: 0 0  black;
+    
+}
+h2{
+    background-color: rgb(50, 209, 58);
+    color: aliceblue;
+   padding-top: 30px;
+   padding-bottom: 20px;
+    width: 100%;
+    font-family: cursive;
+}
+p{
+    border: 1px solid black;
+    padding:30px ;
+}
+span{
+    font-size: 30px;
+}
+.contener{
+    display: flex;
+}
+button{
+    background-color: blue;
+    width: 150px;
+    height:50px;
+}
+button:hover{
+    background-color: rgb(240, 240, 240);
+    width: 150px;
+    height:50px;
+}
